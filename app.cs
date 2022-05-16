@@ -6,7 +6,7 @@ namespace Game
   {
     static void Main()
     {
-     var coins = 0;
+     var coins = 20;
      var friends = 0;
     }
   }
